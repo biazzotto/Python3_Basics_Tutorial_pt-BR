@@ -1,11 +1,13 @@
 
-# Python 3 Basics Tutorial
+# Tutorial de Conceitos Básicos do Python 3
 
 (c) 2015 Dr. Kristian Rother (krother@academis.eu)
 
-with contributions by Allegra Via, Kaja Milanowska and Anna Philips
+com contribuições de Allegra Via, Kaja Milanowska e Anna Philips
 
-Distributed under the conditions of the Creative Commons Attribution Share-alike License 4.0
+tradução de Fabricio Biazzotto
+
+Disbribuído nos termos e condições da Creative Commons Attribution Share-alike License 4.0
 
 Sources of this document can be found on [https://github.com/krother/Python3_Basics_Tutorial](https://github.com/krother/Python3_Basics_Tutorial) 
 
