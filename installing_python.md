@@ -1,29 +1,29 @@
 
-# Installing Python
+# Instalando o Python
 
-The first step into programming is to get Python installed on your computer. You will need two things
+O primeiro passo na programação é ter o Python instalado no computador. Você precisará de duas coisas
 
-* Python itself
-* a text editor
+* o próprio Python
+* um editor de textos
 
-Which to install, depends on your operating system.
+Qual instalar, depende do seu sistema operacional.
 
-## On Ubuntu Linux
+## No Ubuntu Linux
 
-By default, Python is already installed. In this tutorial however, we will use Python3 whenever possible. You can install it from a terminal window with: 
+Por padrão, o Python já vem instalado. No entanto, neste tutorial iremos utilizar o Python3 sempre que possível. Você poderá instalá-lo a partir da linha de comando (Ctrl+Alt+T) com:
 
     sudo apt-get install python3
     sudo apt-get install ipython3
 
-To check whether everything worked, type:
+Para verificar se tudo correu bem, digite:
 
     ipython3
 
-As a text editor, it is fine to start with **gedit**. Please make sure to change tabs to spaces via *Edit -> Preferences -> Editor -> tick 'Insert spaces instead of tabs'*.
+No caso do editor de textos seria legal iniciarmos com o **gedit**. Por favor, esteja certo de mudar tabulações para espaços via *Preferências -> Editor -> marque 'Inserir espaços em vez de tabulações'*. Também é recomendável reduzir *Largura das tabulações:* para *4* nesta mesma tela (nota do tradutor).
 
-## On Windows
+## No Windows
 
-A convenient way to install Python, an editor and many additional packages in one go is [**Canopy**](https://www.enthought.com/products/canopy/). Download and install it from the website.
+Uma maneira conveniente de instalar o Python, um editor e muitos pacotes adicionais em uma única etapa seria o [**Canopy**](https://store.enthought.com/downloads/#default). Baixe e instale a versão Express a partir do website.
 
 After installing, you will need to set up Canopy from the Start menu. Select the first item from the **Enthought Canopy** group and click through the dialog.
 
