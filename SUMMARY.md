@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 * [The dataset of U.S. baby names](babynames.md)
-* [Installing Python](installing_python.md)
+* [Instalando o Python](installing_python.md)
 * [First steps on the IPython Shell](part1/first_steps.md)
    * [Using Python as a calculator](part1/python_shell.md)
    * [Storing numbers](part1/variables_and_numbers.md)
