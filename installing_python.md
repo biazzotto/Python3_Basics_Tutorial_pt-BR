@@ -1,7 +1,7 @@
 
 # Instalando o Python
 
-O primeiro passo na programação é ter o Python instalado no computador. Você precisará de duas coisas
+O primeiro passo na programação é ter o Python instalado no computador. Basicamente você precisará de duas coisas:
 
 * o próprio Python
 * um editor de textos
@@ -10,7 +10,7 @@ Qual instalar, depende do seu sistema operacional.
 
 ## No Ubuntu Linux
 
-Por padrão, o Python já vem instalado. No entanto, neste tutorial iremos utilizar o Python3 sempre que possível. Você poderá instalá-lo a partir da linha de comando (Ctrl+Alt+T) com:
+Por padrão, o Python já vem pré-instalado. Porém, neste tutorial iremos utilizar o Python3 sempre que possível. Você poderá instalá-lo a partir da linha de comando (Ctrl+Alt+T) com:
 
     sudo apt-get install python3
     sudo apt-get install ipython3
@@ -19,33 +19,34 @@ Para verificar se tudo correu bem, digite:
 
     ipython3
 
-No caso do editor de textos seria legal iniciarmos com o **gedit**. Por favor, esteja certo de mudar tabulações para espaços via *Preferências -> Editor -> marque 'Inserir espaços em vez de tabulações'*. Também é recomendável reduzir *Largura das tabulações:* para *4* nesta mesma tela (nota do tradutor).
+No caso do editor de textos seria legal iniciarmos com o **gedit**. Por favor, certifique-se de mudar tabulações para espaços em *Preferências -> Editor -> marque 'Inserir espaços em vez de tabulações'*. Também é recomendável, nesta mesma tela, reduzir *Largura das tabulações:* para *4*.
 
 ## No Windows
 
-Uma maneira conveniente de instalar o Python, um editor e muitos pacotes adicionais em uma única etapa seria o [**Canopy**](https://store.enthought.com/downloads/#default). Baixe e instale a versão Express a partir do website.
+Uma maneira conveniente de instalar o Python, um editor e muitos pacotes adicionais em uma única etapa seria o [**WinPython**](http://winpython.github.io/).
 
-After installing, you will need to set up Canopy from the Start menu. Select the first item from the **Enthought Canopy** group and click through the dialog.
+Após a instalação do WinPython, é conveniente executar o *WinPython Control Panel*, e selecionar *Advanced -> Register distribution...*.
 
-## Other Python distributions
+## Outras distribuições Python
 
-* [**Python 3**](https://www.python.org/downloads/) - the standard Python installation
-* [**Anaconda**](https://store.continuum.io/cshop/anaconda/) - a Python distribution with many pre-installed packages for scientific applications
+* [**Python 3**](https://www.python.org/downloads/) - a instalação padrão do Python
+* [**Anaconda**](https://store.continuum.io/cshop/anaconda/) - uma distribuição Python com diversos pacotes pré-instalados para aplicações científicas
+* [**Canopy**](https://store.enthought.com/downloads/) - outra distribuilção Python, que inclui editor e diversos pacotes pré-instalados
 
-### Other editors
+### Outros editores
 
-* **Idle** - the standard editor
-* **Sublime Text** - a very powerful text editor for all operating systems
-* **Notepad++** - a powerful text editor for Windows. *Please do not use the standard Notepad. It won't get you anywhere.*
-* **PyCharm** - a professional Python development environment capable of handling large projects. You won't need most of the functionality for a long time, but it is a well-written editor.
-* **vim** - a console-based text editor for Unix systems. The tool of choice for many system administrators.
+* **Idle** - o editor padrão do Python
+* [**Sublime Text**](https://www.sublimetext.com/3) - um editor de textos muito poderoso para todos os sistemas operacionais
+* [**Notepad++**](https://notepad-plus-plus.org/download/) - um poderoso editor de textos para o Windows.
+* [**PyCharm**](https://www.jetbrains.com/pycharm/download) - um ambiente de desenvolvimento profissional para Python, com capacidade para lidar com grandes projetos. Você não precisará da maioria das funcionalidades por um longo tempo, mas é um editor muito bem feito.
+* [**vim**](http://www.vim.org/download.php) - um editor de textos baseado em console para sistemas Unix. A ferramenta preferida de muitos administradores de sistema.
 
-## Questions
+## Perguntas
 
-#### Question 1
+#### Pergunta 1
 
-Which text editors are installed on your system?
+Quais editores de texto estão instalados em seu sistema?
 
-#### Question 2
+#### Pergunta 2
 
-Which Python version are you running?
+Qual a versão do Python que você está rodando?
